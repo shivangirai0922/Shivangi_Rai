@@ -1,4 +1,3 @@
-# Shivangi Rai
 Hi there! 👋 I'm Shivangi Rai
 Welcome to my GitHub! I'm passionate about data science, machine learning, and business intelligence. I enjoy working on real-world projects that involve data processing, visualization, and predictive modeling.
 
